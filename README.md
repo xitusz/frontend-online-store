@@ -1,5 +1,5 @@
 # Front-end Online Store
-[4/9] [Desenvolvimento Front-end](https://github.com/G-Alves1/Trybe/tree/main/02_Desenvolvimento-Front-end)
+[4/9] [Desenvolvimento Front-end](https://github.com/xitusz/Trybe/tree/main/02_Desenvolvimento-Front-end)
 
 ---
 
@@ -44,7 +44,7 @@
 
 * Clone o repositório
   ```sh
-    git clone git@github.com:G-Alves1/frontend-online-store.git
+    git clone git@github.com:xitusz/frontend-online-store.git
   ```
 
 ---
